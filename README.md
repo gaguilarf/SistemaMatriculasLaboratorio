@@ -105,8 +105,11 @@ Este proyecto utiliza FlutterFlow como herramienta de desarrollo visual, lo que 
 
 ## Autor
 
-**Gabriel Aguilar**
+**Gustavo Aguilar**
 - GitHub: [@gaguilarf](https://github.com/gaguilarf)
+**Anthony Moroccoire**
+**Heidi Cordova**
+**Anthony Miyo**
 
 ## Universidad
 
